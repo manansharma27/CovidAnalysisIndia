@@ -45,5 +45,5 @@ Conclusion - Here also, Maharashtra and Uttar Pradesh are in top, but here we ca
 Analysis of gender vacciantion ratio in Madhya Pradesh
 [Image-12]<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/gender_mp.png">
 
-Thank you!
+Thank you
 
