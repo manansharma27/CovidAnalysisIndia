@@ -6,7 +6,7 @@ As the vaccination drive is on its verge in India. We need to analysis its vacci
 <br>
 <h5> Anaysis Requirements</h5>
 Below are the requirements for the analysis of covid vaccine drive in India.
-[Image-1]<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/requirement.png">
+[Image-1]<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/requirement.PNG">
 <br>
 1. Analysis of top 10 vaccinated states in India.
 [Image-2]<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/top10vaccinated.png">
