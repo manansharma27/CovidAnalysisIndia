@@ -1,5 +1,6 @@
 # CovidAnalysisIndia
-
+LinkedIN Profile - https://www.linkedin.com/in/manan-sharma-785269151/
+<br>
 <h3> Analysis of Covid Vaccine in India</h3>
 <br>
 As the vaccination drive is on its verge in India. We need to analysis its vaccination drive, so the data is collected from Kaggle and we have stored it in SQL Server for some data exploration and data cleaning. Then we have connected database with python and used pandas,matplotlib and seaborn for the analysis of covid vaccine in India.
