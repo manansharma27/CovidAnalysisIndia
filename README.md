@@ -12,6 +12,9 @@ Below are the requirements for the analysis of covid vaccine drive in India.
 1. Analysis of top 10 vaccinated states in India.
 [Image-2]<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/top10vaccinated.PNG">
 <br>
+-> Analysis of People vaccinated percentage in states with respect to population.
+<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/vaccine_percent.PNG">
+<br>
 2. Analysis of least 10 vaccinated states in India.
 [Image-3]<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/leat10.PNG">
 <br>
