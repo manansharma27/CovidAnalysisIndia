@@ -4,11 +4,25 @@ LinkedIN Profile - https://www.linkedin.com/in/manan-sharma-785269151/
 <h3> Analysis of Covid Vaccine in India</h3>
 <br>
 As the vaccination drive is on its verge in India. We need to analysis its vaccination drive, so the data is collected from Kaggle and we have stored it in SQL Server for some data exploration and data cleaning. Then we have connected database with python and used pandas,matplotlib and seaborn for the analysis of covid vaccine in India.
-<br>
+<br><br>
+Languages/ Libraries used:-
+1) Python
+2) SQL
+3) Pandas
+4) Matplotlib
+5) Seaborn
+6) pyodbc
+<br><br>
+Steps taken in the analysis process:-
+1) Data Collection
+2) Data Preprocessing and Cleaning
+3) Exploratory Data Analysis
+<br><br>
 <h5> Anaysis Requirements</h5>
 Below are the requirements for the analysis of covid vaccine drive in India.
 [Image-1]<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/requirement.PNG">
-<br>
+<br><br>
+Analysis Report<br><br>
 1. Analysis of top 10 vaccinated states in India.
 [Image-2]<img src= "https://github.com/manansharma27/CovidAnalysisIndia/blob/main/top10vaccinated.PNG">
 <br>
